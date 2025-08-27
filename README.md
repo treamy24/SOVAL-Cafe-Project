@@ -22,11 +22,7 @@ A landing page and mobile app for Strawberry Cafe, showcasing our coffee product
 - Expo
 - Tailwind CSS
 
-  ## Setup
+## Setup
 1. Clone the repo: git clone repository-URL
 2. Install dependencies: npm install
 3. Start the development server: npm start
-
-
-![Landing Page](<img width="1024" height="1024" alt="Strawberry-cafe-logo-design-1" src="https://github.com/user-attachments/assets/ab31be50-9c27-4950-9ac5-787ccc27ac3f" />
-)
