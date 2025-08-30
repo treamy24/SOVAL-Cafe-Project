@@ -1,4 +1,4 @@
-# Strawberry Cafe
+# SOVAL Cafe
 
 A landing page and mobile app for Strawberry Cafe, showcasing our coffee products, subscriptions, and brand story. Built using the MERN stack with React Native for web and mobile.
 
